@@ -90,8 +90,4 @@ You'll need to have the following installed on your machine:
 - **Square Footage** and **Number of Bedrooms** were the most important features, but their contributions became clearer after scaling.
 - Visualizing data before modeling is crucial for understanding relationships and choosing the right preprocessing steps.
 
-## Contributors
-
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)
-- **Mahnoor Salman** (Instructor at Atomcamp) - For excellent guidance and teaching!
 
